@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there :D
 
 <!--
 **jlin492987/jlin492987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
